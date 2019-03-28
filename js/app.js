@@ -6,4 +6,7 @@
             coordsEl.parentElement.classList.remove('invisible');
         });
     }
+
+    // Naatalia commented
+
 })();
